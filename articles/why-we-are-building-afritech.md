@@ -12,6 +12,6 @@ Answering this question, and others similar to this is our primary baseline for 
 
 ## Alternative Platforms
 
-There are several other platforms to source similar information such as [Startuplist Africa](https://startuplist.africa/), [Seed Table](https://www.seedtable.com/best-startups-in-africa), [Stears](https://www.stears.co/) and [Crunchbase](https://www.crunchbase.com/). These sites offer similar experiences that are majorly geared towards investors therefore prioritizing. We would like to widen the market for research into african tech companies to include not only investors but also everyday africans, historians, entrepreneurs themselves so they can more deeply understand the tech landscape within the continent. 
+There are several other platforms to source similar information such as [Startuplist Africa](https://startuplist.africa/), [Seed Table](https://www.seedtable.com/best-startups-in-africa), [Stears](https://www.stears.co/) and [Crunchbase](https://www.crunchbase.com/). These sites offer similar experiences that are majorly geared towards investors therefore prioritizing them first. We would like to widen the market for research into african tech companies to include not only investors but also everyday africans, historians, entrepreneurs themselves so they can more deeply understand the tech landscape within the continent. 
 
 If you share in this vision, we invite you to have a look and give us feedback as we keep building.
