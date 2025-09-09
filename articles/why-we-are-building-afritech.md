@@ -1,4 +1,4 @@
-# Why We Are Building Afritech
+<h1 class="tui-text_h3 title-font"> Why We Are Building Afritech </h1>
 
 Afritech is a public record of technology companies in the African continent. This initiative was started to fulfill a need to have a repository of current and past tech companies that have been established over time. While still in its early stages, the goal of Afritech is to enable the access of information about African technology companies accessible to Africans themselves as well as anyone interested in the ever-changing tech landscape within the continent. 
 

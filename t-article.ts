@@ -3,4 +3,5 @@ export type TArticle = {
   title: string;
   publishedAt: string;
   file: string;
+  summary: string;
 };
