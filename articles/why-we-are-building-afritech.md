@@ -2,7 +2,7 @@
 
 Afritech is a public record of technology companies in the African continent. This initiative was started to fulfill a need to have a repository of current and past tech companies that have been established over time. While still in its early stages, the goal of Afritech is to enable the access of information about African technology companies accessible to Africans themselves as well as anyone interested in the ever-changing tech landscape within the continent. 
 
-## What we want in a Public Database
+## What We Want in a Public Database
 
 To be useful, we intend to start with having a database that can provide fine-grained search and filtering capabilities with the initial filtereable fileds being `Company Name` , `Year Founded`, `Industries`, `Sub Industries` , by `Country`, by `Stage`, by `Status` - is it `active` , `inactive` or `acquired`.  One can begin by asking the question: 
 
